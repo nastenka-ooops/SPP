@@ -1,0 +1,14 @@
+C:\BSUIR\MoPsP\lapa1\bin\Debug\net9.0\lapa1.exe
+C:\BSUIR\MoPsP\lapa1\bin\Debug\net9.0\lapa1.deps.json
+C:\BSUIR\MoPsP\lapa1\bin\Debug\net9.0\lapa1.runtimeconfig.json
+C:\BSUIR\MoPsP\lapa1\bin\Debug\net9.0\lapa1.dll
+C:\BSUIR\MoPsP\lapa1\bin\Debug\net9.0\lapa1.pdb
+C:\BSUIR\MoPsP\lapa1\obj\Debug\net9.0\lapa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\BSUIR\MoPsP\lapa1\obj\Debug\net9.0\lapa1.AssemblyInfoInputs.cache
+C:\BSUIR\MoPsP\lapa1\obj\Debug\net9.0\lapa1.AssemblyInfo.cs
+C:\BSUIR\MoPsP\lapa1\obj\Debug\net9.0\lapa1.csproj.CoreCompileInputs.cache
+C:\BSUIR\MoPsP\lapa1\obj\Debug\net9.0\lapa1.dll
+C:\BSUIR\MoPsP\lapa1\obj\Debug\net9.0\refint\lapa1.dll
+C:\BSUIR\MoPsP\lapa1\obj\Debug\net9.0\lapa1.pdb
+C:\BSUIR\MoPsP\lapa1\obj\Debug\net9.0\lapa1.genruntimeconfig.cache
+C:\BSUIR\MoPsP\lapa1\obj\Debug\net9.0\ref\lapa1.dll
