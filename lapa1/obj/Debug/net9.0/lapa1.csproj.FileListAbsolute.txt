@@ -12,3 +12,4 @@ C:\BSUIR\MoPsP\lapa1\obj\Debug\net9.0\refint\lapa1.dll
 C:\BSUIR\MoPsP\lapa1\obj\Debug\net9.0\lapa1.pdb
 C:\BSUIR\MoPsP\lapa1\obj\Debug\net9.0\lapa1.genruntimeconfig.cache
 C:\BSUIR\MoPsP\lapa1\obj\Debug\net9.0\ref\lapa1.dll
+C:\BSUIR\MoPsP\lapa1\obj\Debug\net9.0\lapa1.sourcelink.json

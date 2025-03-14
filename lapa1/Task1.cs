@@ -1,11 +1,16 @@
 ﻿namespace lapa1;
 
-class Program
+class Task1
 {
     public static void Main(string[] args)
     {
         string? s = Console.ReadLine();
         int threadCount = s == null ? 0 : int.Parse(s);
+        if (threadCount < 0)
+        {
+            Console.WriteLine("Thread count cannot be negative");
+            return;
+        }
         TaskQueue taskQueue = new TaskQueue(threadCount);
 
         for (int i = 0; i < 10; i++)
